@@ -8,6 +8,11 @@ struct Node {
 
 };
 
+Node* START = NULL;
+
+void addNode() {
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
